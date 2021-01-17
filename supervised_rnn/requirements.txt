@@ -1,0 +1,8 @@
+tensorflow
+pandas
+logging
+seaborn
+pylab
+sklearn
+keras
+scipy
