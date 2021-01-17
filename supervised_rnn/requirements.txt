@@ -1,7 +1,0 @@
-tensorflow
-pandas
-logging
-seaborn
-pylab
-sklearn
-scipy
